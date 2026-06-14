@@ -1,3 +1,4 @@
 # WebApp-eksamen 22H
-Project 2 is done by my self (so only my work)
-Project 3 is 50/50, my part was the front-end.
+Project 1 was completed solely by me.
+Project 3 was shared 50/50. My contribution was the back-end development.
+This project was completed under a different user, "CyberSecEnjoyer".
